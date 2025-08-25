@@ -8,7 +8,7 @@ There are a few ways to manage sensitive information in Terraform files. Here ar
 
 ## Secret management system
 
-- Store sensitive data in a secret management system. A secret management system is a dedicated system for storing sensitive data, such as passwords, API keys, and SSH keys. Terraform can be configured to read secrets from a secret management system, such as HashiCorp Vault or AWS Secrets Manager.
+- Store sensitive data in a secret management system. A secret management system is a dedicated system for storing sensitive data, such as passwords, API keys, and SSH keys. Terraform can be configured to read secrets from a secret management system, such as HashiCorp Vault, Azure Key Vault or AWS Secrets Manager.
 
 ## Remote Backend
 
